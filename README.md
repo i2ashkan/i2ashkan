@@ -1,5 +1,5 @@
 # 💫 About Me:
-About me :Web-developer <br>(Front end , Back end) , <br>Blockchain developer ,<br>solidity developer ...
+About me:<br> Web-developer <br>(Front end , Back end) , <br>Blockchain developer ,<br>solidity developer ...
 
 
 ## 🌐 Socials:
